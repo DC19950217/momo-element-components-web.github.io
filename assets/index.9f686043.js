@@ -1,0 +1,1 @@
+import{_ as r,e as c,b as s,o as t}from"./index.a295a688.js";const _={setup(){return{changeArea:e=>{console.log(e)}}}};function p(o,e,h,n,l,m){const a=s("m-choose-area");return t(),c(a,{onChange:n.changeArea},null,8,["onChange"])}var g=r(_,[["render",p]]);export{g as default};

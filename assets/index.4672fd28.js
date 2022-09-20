@@ -1,0 +1,1 @@
+import{_ as t,c as a,a as r,b as s,o as i}from"./index.a295a688.js";const _={setup(){return{changeCity:e=>{console.log(e)}}}};function l(o,e,p,n,h,m){const c=s("m-choose-city");return i(),a("div",null,[r(c,{onChangeProvince:n.changeCity},null,8,["onChangeProvince"])])}var u=t(_,[["render",l]]);export{u as default};
